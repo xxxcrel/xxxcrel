@@ -9,4 +9,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xxxcrel)](https://github.com/anuraghazra/github-readme-stats)
+[![xxxcrel's github stats](https://github-readme-stats.vercel.app/api?username=xxxcrel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxcrel)](https://github.com/anuraghazra/github-readme-stats)
