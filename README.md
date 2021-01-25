@@ -6,6 +6,6 @@
 - 😄 感情稳定 ...
 - ⚡ 继续加油 ...
 
-[![xxxcrel's github stats](https://github-readme-stats.vercel.app/api?username=xxxcrel&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![xxxcrel's github stats](https://github-readme-stats.vercel.app/api?username=xxxcrel&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxcrel&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxcrel&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
