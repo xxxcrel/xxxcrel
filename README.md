@@ -1,4 +1,4 @@
-<img align="right" style="border: solid 1px #30363d" src="https://github-readme-stats.vercel.app/api?username=xxxcrel&show_icons=true&icon_color=6a11cb&text_color=f6d365&bg_color=320,67B26F,4ca2cd&hide_title=true" />
+<img align="right" style="border: solid 1px #30363d" src="https://github-readme-stats.vercel.app/api?username=xxxcrel&show_icons=true&icon_color=EB5757&text_color=f6d365&bg_color=320,67B26F,4ca2cd&hide_title=true" />
 
 Hi 👋
 
