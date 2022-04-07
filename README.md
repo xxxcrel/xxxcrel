@@ -4,5 +4,5 @@ Hi 👋
 
 - :yellow_heart:  I'm a developer with no technical bias
 - :dart:  Now I'm focusing on Java and Microservices
-- :stuck_out_tongue_winking_eye:  No one can kill you? I'm no one
+- :stuck_out_tongue_winking_eye:  No one can kill you? A boy is no one
 - :zap:  Everything's gonna be okay
