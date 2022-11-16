@@ -6,6 +6,8 @@ Hi 👋
 - :yellow_heart:  I'm a developer without technical bias
 - :dart:  Now I'm focusing on Java and Microservices
 - :stuck_out_tongue_winking_eye:  No one can kill you? A boy is no one
-- :zap:  Everything's gonna be okay
+- :zap:  Everything's gonna be okay 
+
+</br>
 
 [![Crel's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxxcrel&theme=tokyo-night&hide_border=true&hide_title=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
