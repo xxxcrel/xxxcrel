@@ -10,4 +10,4 @@ Hi 👋
 
 </br>
 
-[![Crel's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxxcrel&bg_color=23344B&theme=tokyo-night&hide_border=true&hide_title=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+# [![Crel's github activity graph](https://activity-graph.herokuapp.com/graph?username=xxxcrel&bg_color=23344B&theme=tokyo-night&hide_border=true&hide_title=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
