@@ -10,4 +10,4 @@ Hi 👋
 
 </br>
 
-<img align="bottom" src="https://github-readme-activity-graph.cyclic.app/graph?username=xxxcrel&bg_color=23344B&theme=tokyo-night&area_color=4184E4&area=true&hide_border=true&hide_title=true&radius=10" />
+<!--<img align="bottom" src="https://github-readme-activity-graph.cyclic.app/graph?username=xxxcrel&bg_color=23344B&theme=tokyo-night&area_color=4184E4&area=true&hide_border=true&hide_title=true&radius=10" />-->
