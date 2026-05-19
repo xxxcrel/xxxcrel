@@ -1,4 +1,4 @@
-<img align="right" style="width: 480px" src="./profile/stats.svg" />
+<img align="right" style="width: 480px" src="./profile/stats.svg" style="width:180px; height:auto;"  />
 Hi 👋
 
 - **:yellow_heart:  A developer without technical bias**
